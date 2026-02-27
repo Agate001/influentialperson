@@ -3,7 +3,7 @@ import Top10card from '@/app/components/top10'
 
 const page = () => {
   return (
-    <div className="min-h-screen flex flex-col bg-[url(/Assets/Background.png)]">
+    <div className="min-h-screen flex flex-col bg-[url(/Assets/Background.png)] dark:bg-[url(/Assets/DarkBackground.png)]">
       <Nav />
 
       <main className="flex-1 flex items-center justify-center px-6 pt-10 pb-10">

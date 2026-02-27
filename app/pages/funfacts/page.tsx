@@ -4,7 +4,7 @@ import React from 'react'
 
 const page = () => {
   return (
-        <div className="min-h-screen flex flex-col bg-[url(/Assets/Background.png)]">
+        <div className="min-h-screen flex flex-col bg-[url(/Assets/Background.png)] dark:bg-[url(/Assets/DarkBackground.png)]">
       <Nav />
       <main className="flex-1 flex items-center justify-center font-sans px-6 pt-10 pb-10">
         <section className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center justify-items-center">

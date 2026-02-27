@@ -4,14 +4,14 @@ import Nav from "./components/nav";
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex flex-col bg-[url(/Assets/Background.png)]">
+    <div className="min-h-screen flex flex-col bg-[url(/Assets/Background.png)] dark:bg-[url(/Assets/DarkBackground.png)]">
       <Nav />
       <main className="flex-1 flex items-center justify-center px-6">
         <section className="grid grid-cols-1 lg:grid-cols-2 items-center justify-items-center">
         <div className="flex items-center justify-center">
        <Image src={Leslie} height={400} alt="Leslie Jones"></Image>
        </div>
-       <div className="lg:me-40 bg-white">
+       <div className="lg:me-40 bg-white dark:bg-gray-800">
        <h1 className="font-extrabold text-3xl text-center lg:text-left">Leslie Jones</h1> 
        <br />
        <p className="text-sm text-center lg:text-left">Leslie Jones is an American comedian, actress, and writer known for her fearless humor, powerful stage presence, and unapologetic personality. Born in Memphis, Tennessee, and raised in Los Angeles, she found her passion in stand-up comedy after initially pursuing basketball in college. Her comedy style is bold, energetic, and brutally honest, often drawing from her real-life experiences and sharp observations about relationships, aging, and pop culture.</p>
