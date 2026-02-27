@@ -34,3 +34,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+Peer Review: Eliasaf - the website looks really go i like how everything is laid out the website works smooth and looks like a legit website i would change the color for the box that the text is on top of because in dark mode you cant see anything but in light mood it looks fine but it looks good
